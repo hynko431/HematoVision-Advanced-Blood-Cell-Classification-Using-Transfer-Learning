@@ -4,4 +4,4 @@
 > ## Demo vedio Link :- https://drive.google.com/file/d/14jQfhJCyzyyANq2lfWFEc5TUZ3Jh-5_k/view?usp=sharing
 
 
->## gitHub Link :- https://github.com/gujjala-pranay/HematoVision
+> ## GitHub Link :- https://github.com/hynko431/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
